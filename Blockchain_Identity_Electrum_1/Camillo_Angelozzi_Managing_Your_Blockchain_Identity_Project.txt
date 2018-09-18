@@ -1,0 +1,8 @@
+Camillo_Angelozzi_Managing_Your_Blockchain_Identity_Project
+
+
+- Wallet address: 1PfE2HU25KSB7JAUnR27d8yd8KVc33ugWX
+
+- Message: 1PfE2HU25KSB7JAUnR27d8yd8KVc33ugWX: Udacity rocks!
+
+- Message signature: H6nAuRYZWE/fdWyLLdFLt7ynN/ESBjmtnc4IF7RiRnr0cb3fwieWQr4O8N92XC+bkhyHZpa5jGlVXC8TGX7DJUg=
